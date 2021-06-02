@@ -71,11 +71,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h1>About Us</h1>
 
 	<div id="body">
-		<p>Nama: Kresna Adhi Pramana</p>
+		<p>Nama: Rifki Aulia Irawan</p>
 
-		<p>NRP: 05111840000072</p>
+		<p>NRP: 05111840000142</p>
 
-		<p>Kelas: Pemrograman Berbasis Kerangka Kerja A</p>
+		<p>PBKK - A</p>
 	</div>
 
 	<p class="footer">Halaman dirender dalam <strong>{elapsed_time}</strong> detik. <?php echo  (ENVIRONMENT === 'development') ?  'Versi CodeIgniter <strong>' . CI_VERSION . '</strong>' : '' ?></p>

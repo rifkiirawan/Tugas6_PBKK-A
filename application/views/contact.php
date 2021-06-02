@@ -71,11 +71,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h1>Contact Us</h1>
 
 	<div id="body">
-		<p>Alamat: Kejawan Putih Mutiara 6 - C3/350</p>
+		<p>Alamat: Rifki Aulia Irawan</p>
 
-		<p>Telepon: 0812-3020-0808</p>
+		<p>No. HP : 082240283809</p>
 
-		<p>Email: kresnaadhipramana5758@gmail.com</p>
+		<p>Email: rifkiauliairawan@gmail.com</p>
 	</div>
 
 	<p class="footer">Halaman dirender dalam <strong>{elapsed_time}</strong> detik. <?php echo  (ENVIRONMENT === 'development') ?  'Versi CodeIgniter <strong>' . CI_VERSION . '</strong>' : '' ?></p>
